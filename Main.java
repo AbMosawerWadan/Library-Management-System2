@@ -1,4 +1,4 @@
-public class Mian {
+public class Main {
     public static void main(String[] args) {
 
         Lib library = new Lib("Central Library");
