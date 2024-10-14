@@ -1,7 +1,7 @@
 public class Mian {
     public static void main(String[] args) {
 
-        Library library = new Library("Central Library");
+        Lib library = new Lib("Central Library");
 
 
         Book book1 = new Book("12345", "Great Student", "Mosawer Wadan");

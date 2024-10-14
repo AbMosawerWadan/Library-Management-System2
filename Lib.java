@@ -1,9 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Lib {
     private String name;
     private List<Book> books;
     private List<Member> members;
 
-    public Library(String name) {
+    public Lib(String name) {
         this.name = name;
         this.books = new ArrayList<>();
         this.members = new ArrayList<>();
